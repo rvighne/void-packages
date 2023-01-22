@@ -11069,3 +11069,9 @@ CONFIG_MEMTEST=y
 #
 # end of Rust hacking
 # end of Kernel hacking
+
+#
+# rohit's patches
+#
+CONFIG_ATH_USER_REGD=y
+# end of rohit's patches
